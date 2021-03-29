@@ -1,0 +1,26 @@
+.body{
+    margin:0;
+}
+.head{
+    background-color:#5e068a;
+    
+}
+.h{
+    padding-left: 85px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+.h1{
+    padding-left: 120px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+.detail{
+    padding-left: 400px;
+    font-weight: 700;
+}
+.logo{
+    padding-left: 100px;
+}

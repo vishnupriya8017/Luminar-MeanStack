@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+}
+h1{
+    color: azure;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    color:white;
+    float: left;
+    width: 30%;
+    height: 500px;
+    
+}
+.first{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+}
+.sec{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+    
+}
+.third{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+
+}
+.fourth{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+
+}
+.fifth{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+
+}
+.sixth{
+    background-color:white;
+    border-style: solid;
+    border-color: black;
+
+}
+
+
+.sam{
+    color:black;
+}
+.red{
+    color: black;
+}
+.oppo{
+    color:black;
+}
+.vivo{
+    color:black;
+}
+.nokia{
+    color:black;
+}
+.oneplus{
+    color:black;
+}
+
+
+
+.s{
+    width: 40%;
+    padding-left: 120px;  
+}
+.r{
+    width: 50%;
+    padding-left: 100px;    
+}
+
+.o{
+    width:70%;
+    padding-left: 65px;
+}
+.v{
+    width:40%;
+    padding-left: 120px;
+    margin-top: 20px;
+}
+.n{
+    width:40%;
+    padding-left: 120px;
+    margin-top: 20px;
+}
+.m{
+    width:50%;
+    padding-left: 100px;
+    margin-top: 20px;
+}
+
+
+
+
+.f{
+    color: black;
+    padding-left: 120px;
+}
+.e{
+    color: black;
+    padding-left: 120px;    
+}
+ul{
+    color:black;
+    padding-left: 135px;
+    padding-top: 30px;
+}
+.s{
+    color: black;
+    padding-left: 120px;    
+}
+.h{
+    color: black;
+    padding-left: 120px;    
+}
+.i{
+    color: black;
+    padding-left: 120px;    
+}
+
+
